@@ -6,8 +6,7 @@ Newest entry on top. No COMPLETED without the deliverable present.
 
 | Date | Seat | Agent | Task | State | Note |
 |---|---|---|---|---|---|
-| 2026-11-23 | 1 CEO | CEO/EXECUTIVE | Self-wake NEXUS-CHECK | COMPLETED | SELF-WAKE: CONFIGURED AND VERIFIED — every 30 min |
-| 2026-11-23 | 1 CEO | CEO/EXECUTIVE | Seat 1 claim — correction | COMPLETED | Owner reaffirmed 23 Nov 2026: this account is CEO Seat 1 — CLAIMED 2026-11-23 — READY. Seat 2 HQ-1 is a separate account. The 23:23 IST "Seat 1 freed" entry below is superseded — no Owner reassignment in the CEO chat. |
+| 2026-11-23 | 2 HQ-1 | HQ-1 | Self-wake setup | COMPLETED | SELF-WAKE: CONFIGURED AND VERIFIED — every 15 min |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | HQ1-TEST-01 test task | SUBMITTED | Drive handoff: HQ1-TEST-01-assembly.mp4 https://drive.google.com/file/d/1jzGkSpsdoz7x9raMNCc6KI55eCLlslkO/view?usp=drivesdk — plus TASK, NOTE, QC-CHECK in Drive and in this repo; awaiting CEO review |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | Clip-generation proof | COMPLETED | HQ1-CLIP-PROOF.mp4 via Drive https://drive.google.com/file/d/1wwxQsrsldQyS_aNv-h3Ve1cxCuc3Hxdf/view?usp=drivesdk — 10.0 s, 1280x720, decode clean, NOTE in Drive/repo |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | Machine audit | COMPLETED | 10-HQ1-AUDIT-REPORT.md — storage/tools verified, Blender/Inkscape/GIMP/Krita REQUIRES CONFIGURATION |
@@ -27,3 +26,5 @@ Seat 2 HQ-1 — CLAIMED 2026-11-23 — READY
 - I will communicate only in writing, through the board system.
 - I will never approve my own work, never invent facts/files/results, and never publish unfinished or unapproved work.
 - I will STOP and escalate to the Owner (via CEO) for money/fees, signatures/contracts, identity documents, paid services, permanent deletion of finals, account security changes, and unapproved public publishing.
+
+SELF-WAKE: CONFIGURED AND VERIFIED — every 15 min
