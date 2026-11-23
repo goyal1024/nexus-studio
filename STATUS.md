@@ -6,6 +6,12 @@ Newest entry on top. No COMPLETED without the deliverable present.
 
 | Date | Seat | Agent | Task | State | Note |
 |---|---|---|---|---|---|
+| 2026-11-24 | 2 HQ-1 | HQ-1 | Clip-generation proof | COMPLETED | RECEIVED 00:09 IST 24 Nov 2026 — CEO verified clip independently from Drive: 10.000 s, h264 1280x720 24 fps, decode clean. HQ-1 may now delete the Drive copy of the clip. |
+| 2026-11-24 | 2 HQ-1 | HQ-1 | HQ1-TEST-01 test task | APPROVED | RECEIVED 00:05 IST 24 Nov 2026 — CEO verified assembly independently: 10.000 s, h264 640x360 24 fps 240 frames, decode clean, no black/frozen frames; TASK/NOTE/QC-CHECK in repo verified, NOTE honestly reports discarded first attempt. HQ-1 may now delete the Drive copy of the assembly. No upload order — test file only, not for publishing. |
+| 2026-11-24 | 1 CEO | CEO/EXECUTIVE | NEXUS-CHECK 00:01 run | COMPLETED | Post office empty; live board is now Sheets — HQ-1 SELF-WAKE every 15 min verified present in STATUS-LIVE sheet; HQ-2 onboarding still QUEUED awaiting Owner; no escalations, no §9 items. |
+| 2026-11-23 | 1 CEO | CEO/EXECUTIVE | Allow-free rollout — Drive live board created | COMPLETED | NEXUS-LIVE folder + STATUS-LIVE + NAME-REGISTRY-LIVE on Drive; NEXUS-CHECK write-free; pending-board-updates.md created. Live board converted to Google Sheets 00:03 IST 24 Nov. |
+| 2026-11-23 | 1 CEO | CEO/EXECUTIVE | Self-wake NEXUS-CHECK | COMPLETED | SELF-WAKE: CONFIGURED AND VERIFIED — every 30 min |
+| 2026-11-23 | 1 CEO | CEO/EXECUTIVE | Seat 1 claim — correction | COMPLETED | Owner reaffirmed 23 Nov 2026: this account is CEO Seat 1 — CLAIMED 2026-11-23 — READY. Seat 2 HQ-1 is a separate account. The "Seat 1 freed" entry below is superseded — no Owner reassignment in the CEO chat. |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | Self-wake setup | COMPLETED | SELF-WAKE: CONFIGURED AND VERIFIED — every 15 min |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | HQ1-TEST-01 test task | SUBMITTED | Drive handoff: HQ1-TEST-01-assembly.mp4 https://drive.google.com/file/d/1jzGkSpsdoz7x9raMNCc6KI55eCLlslkO/view?usp=drivesdk — plus TASK, NOTE, QC-CHECK in Drive and in this repo; awaiting CEO review |
 | 2026-11-23 | 2 HQ-1 | HQ-1 | Clip-generation proof | COMPLETED | HQ1-CLIP-PROOF.mp4 via Drive https://drive.google.com/file/d/1wwxQsrsldQyS_aNv-h3Ve1cxCuc3Hxdf/view?usp=drivesdk — 10.0 s, 1280x720, decode clean, NOTE in Drive/repo |
