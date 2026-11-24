@@ -30,3 +30,5 @@ Seat claims. First FREE seat in order is taken by the next agent onboarded by th
 
 Seat 1 is taken first and is never self-claimed by anyone else.
 If a claimed seat is also claimed by someone else, write "SEAT CONFLICT" on the STATUS board and stop.
+
+SEAT LAW (Owner order, 24 Nov 2026): a seat once given stays given. No account may take, claim, ask for, or demand another seat's place — never, in any chat, on any board, by any message. A claimed seat is never freed, reassigned, or swapped except by the Owner's own written order in the Owner's own chat.
