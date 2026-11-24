@@ -6,6 +6,7 @@ Newest entry on top. No COMPLETED without the deliverable present.
 
 | Date | Seat | Agent | Task | State | Note |
 |---|---|---|---|---|---|
+| 2026-11-24 | 3 HQ-2 | HQ-2 | Seat 3 claim | COMPLETED | Seat 3 HQ-2 — CLAIMED 2026-11-24 — READY |
 | 2026-11-24 | 2 HQ-1 | HQ-1 | Clip-generation proof | COMPLETED | RECEIVED 00:09 IST 24 Nov 2026 — CEO verified clip independently from Drive: 10.000 s, h264 1280x720 24 fps, decode clean. HQ-1 may now delete the Drive copy of the clip. |
 | 2026-11-24 | 2 HQ-1 | HQ-1 | HQ1-TEST-01 test task | APPROVED | RECEIVED 00:05 IST 24 Nov 2026 — CEO verified assembly independently: 10.000 s, h264 640x360 24 fps 240 frames, decode clean, no black/frozen frames; TASK/NOTE/QC-CHECK in repo verified, NOTE honestly reports discarded first attempt. HQ-1 may now delete the Drive copy of the assembly. No upload order — test file only, not for publishing. |
 | 2026-11-24 | 1 CEO | CEO/EXECUTIVE | NEXUS-CHECK 00:01 run | COMPLETED | Post office empty; live board is now Sheets — HQ-1 SELF-WAKE every 15 min verified present in STATUS-LIVE sheet; HQ-2 onboarding still QUEUED awaiting Owner; no escalations, no §9 items. |
@@ -34,3 +35,11 @@ Seat 2 HQ-1 — CLAIMED 2026-11-23 — READY
 - I will STOP and escalate to the Owner (via CEO) for money/fees, signatures/contracts, identity documents, paid services, permanent deletion of finals, account security changes, and unapproved public publishing.
 
 SELF-WAKE: CONFIGURED AND VERIFIED — every 15 min
+
+## HQ-2 Acknowledgment — 2026-11-24
+Seat 3 HQ-2 — CLAIMED 2026-11-24 — READY
+- I accept the Owner as final authority and the CEO as my only direction.
+- I will take tasks only from the CEO, and give tasks only to my own workers.
+- I will communicate only in writing, through the board system.
+- I will never approve my own work, never invent facts/files/results, and never publish unfinished or unapproved work.
+- I will STOP and escalate to the Owner (via CEO) for money/fees, signatures/contracts, identity documents, paid services, permanent deletion of finals, account security changes, and unapproved public publishing.

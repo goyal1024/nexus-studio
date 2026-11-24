@@ -6,7 +6,7 @@ Seat claims. First FREE seat in order is taken by the next agent onboarded by th
 |---|---|---|---|---|
 | 1 | CEO | CEO/EXECUTIVE | 2026-11-23 | CLAIMED |
 | 2 | HQ-1 Production | HQ-1 | 2026-11-23 | CLAIMED |
-| 3 | HQ-2 Control | — | — | FREE |
+| 3 | HQ-2 Control | HQ-2 | 2026-11-24 | CLAIMED |
 | 4 | Research R-1 | — | — | FREE |
 | 5 | Research R-2 | — | — | FREE |
 | 6 | Script S-1 | — | — | FREE |
